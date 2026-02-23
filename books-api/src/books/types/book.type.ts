@@ -3,4 +3,5 @@ export interface BookType {
     author: String
     ISBN: String
     price: Number
+    year: Number
 }
